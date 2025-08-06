@@ -1,0 +1,14 @@
+[2025.08.06 06:22:24] Launched version: 6000002, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2025.08.06 06:22:24] Executable dir: D:/Athena/Github/Telegram_StarMastar1127-athena/TG/, name: Telegram.exe
+[2025.08.06 06:22:24] Initial working dir: D:/Athena/Github/Telegram_StarMastar1127-athena/TG/
+[2025.08.06 06:22:24] Working dir: D:/Athena/Github/Telegram_StarMastar1127-athena/TG/
+[2025.08.06 06:22:24] Command line: D:\Athena\Github\Telegram_StarMastar1127-athena\TG\Telegram.exe
+[2025.08.06 06:22:24] Executable path before check: D:/Athena/Github/Telegram_StarMastar1127-athena/TG/Telegram.exe
+[2025.08.06 06:22:24] Logs started
+[2025.08.06 06:22:24] WinRT Supported: [TRUE]
+[2025.08.06 06:22:24] AppUserModelID: Telegram.TelegramDesktop.525ee91c9d0abf371602920990e856a0
+[2025.08.06 06:22:24] Using DirectX compiler 'D:\Athena\Github\Telegram_StarMastar1127-athena\TG\modules\x64\d3d\d3dcompiler_47.dll'.
+[2025.08.06 06:22:24] Connecting local socket to Global\cc4b2d73e881b93b938dd528deea4f41-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2025.08.06 06:22:24] Socket connected, this is not the first application instance, sending show command...
+[2025.08.06 06:22:24] Show command written, waiting response...
+[2025.08.06 06:22:24] Show command response received, processId = 12980, windowId = 788250, activating and quitting...
